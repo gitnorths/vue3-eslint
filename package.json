@@ -15,6 +15,7 @@
     "commit": "./node_modules/cz-customizable/standalone.js"
   },
   "dependencies": {
+    "axios": "^1.6.7",
     "commitizen": "^4.3.0",
     "cz-customizable": "^7.0.0",
     "pinia": "^2.1.7",
