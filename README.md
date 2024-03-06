@@ -1,6 +1,6 @@
 # vue3-js-eslint
 
-This template should help get you started developing with Vue 3 in Vite.
+搭建Vue3企业级项目规范+基础封装配置.
 
 ## Recommended IDE Setup
 
