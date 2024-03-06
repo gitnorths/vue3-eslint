@@ -4,7 +4,7 @@
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-
+      <PiniaSetup />
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
@@ -17,6 +17,7 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
+import PiniaSetup from './components/PiniaSetup.vue'
 </script>
 <style scoped>
 header {
